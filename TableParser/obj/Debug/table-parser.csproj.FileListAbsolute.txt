@@ -1,0 +1,12 @@
+D:\Work\CSharp\TableParser\obj\Debug\table-parser.csproj.AssemblyReference.cache
+D:\Work\CSharp\TableParser\obj\Debug\TableParser.Properties.Resources.resources
+D:\Work\CSharp\TableParser\obj\Debug\table-parser.csproj.GenerateResource.cache
+D:\Work\CSharp\TableParser\obj\Debug\TableParser.ParserMainForm.resources
+D:\Work\CSharp\TableParser\obj\Debug\table-parser.csproj.CoreCompileInputs.cache
+D:\Work\CSharp\TableParser\bin\Debug\TableParser.exe.config
+D:\Work\CSharp\TableParser\bin\Debug\TableParser.exe
+D:\Work\CSharp\TableParser\bin\Debug\TableParser.pdb
+D:\Work\CSharp\TableParser\bin\Debug\nunit.framework.dll
+D:\Work\CSharp\TableParser\obj\Debug\table-parser.csproj.CopyComplete
+D:\Work\CSharp\TableParser\obj\Debug\TableParser.exe
+D:\Work\CSharp\TableParser\obj\Debug\TableParser.pdb

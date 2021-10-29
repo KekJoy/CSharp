@@ -1,0 +1,13 @@
+D:\Downloads(Disk)\Практика\GameOfLife\bin\Debug\GameOfLife.exe.config
+D:\Downloads(Disk)\Практика\GameOfLife\bin\Debug\GameOfLife.exe
+D:\Downloads(Disk)\Практика\GameOfLife\bin\Debug\GameOfLife.pdb
+D:\Downloads(Disk)\Практика\GameOfLife\bin\Debug\nunit.framework.dll
+D:\Downloads(Disk)\Практика\GameOfLife\obj\Debug\GameOfLife.csproj.AssemblyReference.cache
+D:\Downloads(Disk)\Практика\GameOfLife\obj\Debug\GameOfLife.csproj.CoreCompileInputs.cache
+D:\Downloads(Disk)\Практика\GameOfLife\obj\Debug\GameOfLife.csproj.CopyComplete
+D:\Downloads(Disk)\Практика\GameOfLife\obj\Debug\GameOfLife.exe
+D:\Downloads(Disk)\Практика\GameOfLife\obj\Debug\GameOfLife.pdb
+D:\Work\CSharp\GameOfLife\obj\Debug\GameOfLife.csproj.AssemblyReference.cache
+D:\Work\CSharp\GameOfLife\obj\Debug\GameOfLife.csproj.CoreCompileInputs.cache
+D:\Work\CSharp\GameOfLife\obj\Debug\GameOfLife.exe
+D:\Work\CSharp\GameOfLife\obj\Debug\GameOfLife.pdb

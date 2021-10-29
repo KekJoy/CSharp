@@ -1,0 +1,11 @@
+D:\Work\CSharp\Names\obj\Debug\Names.csproj.CoreCompileInputs.cache
+D:\Work\CSharp\Names\bin\Debug\names.txt
+D:\Work\CSharp\Names\bin\Debug\Names.exe.config
+D:\Work\CSharp\Names\bin\Debug\Names.exe
+D:\Work\CSharp\Names\bin\Debug\Names.pdb
+D:\Work\CSharp\Names\bin\Debug\ZedGraph.dll
+D:\Work\CSharp\Names\bin\Debug\ZedGraph.xml
+D:\Work\CSharp\Names\obj\Debug\Names.csproj.CopyComplete
+D:\Work\CSharp\Names\obj\Debug\Names.exe
+D:\Work\CSharp\Names\obj\Debug\Names.pdb
+D:\Work\CSharp\Names\obj\Debug\Names.csproj.AssemblyReference.cache

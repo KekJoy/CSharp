@@ -1,0 +1,9 @@
+D:\Work\CSharp\Distance\obj\Debug\Distance.csproj.CoreCompileInputs.cache
+D:\Work\CSharp\Distance\bin\Debug\Distance.exe.config
+D:\Work\CSharp\Distance\bin\Debug\Distance.exe
+D:\Work\CSharp\Distance\bin\Debug\Distance.pdb
+D:\Work\CSharp\Distance\bin\Debug\TestingRoom.dll
+D:\Work\CSharp\Distance\obj\Debug\Distance.csproj.CopyComplete
+D:\Work\CSharp\Distance\obj\Debug\Distance.exe
+D:\Work\CSharp\Distance\obj\Debug\Distance.pdb
+D:\Work\CSharp\Distance\obj\Debug\Distance.csproj.AssemblyReference.cache

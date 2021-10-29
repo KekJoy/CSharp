@@ -1,0 +1,16 @@
+D:\Work\CSharp\Subsequence\Subsequence\bin\Debug\net5.0\Subsequence.exe
+D:\Work\CSharp\Subsequence\Subsequence\bin\Debug\net5.0\Subsequence.deps.json
+D:\Work\CSharp\Subsequence\Subsequence\bin\Debug\net5.0\Subsequence.runtimeconfig.json
+D:\Work\CSharp\Subsequence\Subsequence\bin\Debug\net5.0\Subsequence.runtimeconfig.dev.json
+D:\Work\CSharp\Subsequence\Subsequence\bin\Debug\net5.0\Subsequence.dll
+D:\Work\CSharp\Subsequence\Subsequence\bin\Debug\net5.0\ref\Subsequence.dll
+D:\Work\CSharp\Subsequence\Subsequence\bin\Debug\net5.0\Subsequence.pdb
+D:\Work\CSharp\Subsequence\Subsequence\obj\Debug\net5.0\Subsequence.csproj.AssemblyReference.cache
+D:\Work\CSharp\Subsequence\Subsequence\obj\Debug\net5.0\Subsequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\CSharp\Subsequence\Subsequence\obj\Debug\net5.0\Subsequence.AssemblyInfoInputs.cache
+D:\Work\CSharp\Subsequence\Subsequence\obj\Debug\net5.0\Subsequence.AssemblyInfo.cs
+D:\Work\CSharp\Subsequence\Subsequence\obj\Debug\net5.0\Subsequence.csproj.CoreCompileInputs.cache
+D:\Work\CSharp\Subsequence\Subsequence\obj\Debug\net5.0\Subsequence.dll
+D:\Work\CSharp\Subsequence\Subsequence\obj\Debug\net5.0\ref\Subsequence.dll
+D:\Work\CSharp\Subsequence\Subsequence\obj\Debug\net5.0\Subsequence.pdb
+D:\Work\CSharp\Subsequence\Subsequence\obj\Debug\net5.0\Subsequence.genruntimeconfig.cache

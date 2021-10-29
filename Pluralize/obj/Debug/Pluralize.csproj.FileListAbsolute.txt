@@ -1,0 +1,8 @@
+D:\Work\CSharp\Pluralize\bin\Debug\Pluralize.exe
+D:\Work\CSharp\Pluralize\obj\Debug\Pluralize.csproj.CoreCompileInputs.cache
+D:\Work\CSharp\Pluralize\bin\Debug\rubles.txt
+D:\Work\CSharp\Pluralize\bin\Debug\Pluralize.exe.config
+D:\Work\CSharp\Pluralize\bin\Debug\Pluralize.pdb
+D:\Work\CSharp\Pluralize\obj\Debug\Pluralize.exe
+D:\Work\CSharp\Pluralize\obj\Debug\Pluralize.pdb
+D:\Work\CSharp\Pluralize\obj\Debug\Pluralize.csproj.AssemblyReference.cache
